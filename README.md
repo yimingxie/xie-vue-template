@@ -1,6 +1,6 @@
 # xym-vue-template
 
-> template test
+> template test √
 
 ## Build Setup
 
